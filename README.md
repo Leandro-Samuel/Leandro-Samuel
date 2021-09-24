@@ -1,8 +1,8 @@
 ## Oiii! Eu sou Leandro Samuel
-<div align="center">
+<div display="inline-block">
   <a href="https://github.com/Leandro-Samuel">
-  <img width="500em" height="175em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Samuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Samuel&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Samuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Samuel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
